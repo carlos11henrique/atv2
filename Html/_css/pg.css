@@ -1,0 +1,56 @@
+.logo{
+    width: 60px;
+   
+}
+
+#nav{
+    background: linear-gradient(90deg, rgba(255,255,255,1)0%, rgb(135, 134, 130)100%);
+    box-shadow: 2px 2px 2px 2px #cdcdcd;
+    position: sticky;
+    top: 0;
+    z-index: 2;
+}
+#top{
+    font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+#img{
+width: 500px;
+border-radius: 10px;
+}
+.btn-primary{
+    margin: 20px;
+    border-radius: 4px;
+
+}
+.btn-secondary{
+    margin: 30px; 
+    border-radius: 5px;
+
+}
+.btn-group{
+    padding: 20px;
+    
+}
+.imagem-redonda {
+    width: 200px; 
+    height: 200px; 
+    border-radius: 50%; 
+    overflow: hidden; 
+    margin: 0 auto; 
+}
+
+.imagem-redonda img {
+    width: 100%; 
+    height: auto; 
+    display: block;
+}
+
+.texto {
+    margin-top: 10px;
+}
+.clearfix{
+    padding: 200px;
+
+}
