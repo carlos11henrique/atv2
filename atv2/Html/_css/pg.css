@@ -1,0 +1,73 @@
+.logo{
+    width: 60px;
+   
+}
+body{
+    background-color: #ecedec;
+
+}
+#nav{
+    background: linear-gradient(90deg, rgba(255,255,255,1)0%, rgb(100, 99, 95)100%);
+    box-shadow: 2px 2px 2px 2px #cdcdcd;
+    position: sticky;
+    top: 0;
+    z-index: 2;
+    
+}
+li:hover{
+background-color: rgb(13, 89, 89);
+}
+#top{
+    font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+  width: 10px; 
+  
+}
+#img{
+width: 500px;
+border-radius: 10px;
+}
+.btn-primary{
+    margin-top: 10px;
+    border-radius: 4px;
+
+}
+.btn-secondary{
+    margin: 30px; 
+    border-radius: 5px;
+
+}
+.btn-group{
+    padding: 20px;
+    
+}
+.imagem-redonda {
+    width: 200px; 
+    height: 200px; 
+    border-radius: 50%; 
+    overflow: hidden; 
+    margin: 0 auto; 
+}
+
+.imagem-redonda img {
+    width: 100%; 
+    height: auto; 
+    display: block;
+}
+
+.texto {
+    margin-top: 10px;
+}
+
+.clearfix{
+    padding: 350px;
+    
+}
+.imggg{
+    border-radius: 10px;
+}
+.iggg{
+    border-radius: 10px;
+
+}
